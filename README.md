@@ -5,14 +5,13 @@
 
 # <samp>Hi there, I'm <span style="color:#ff8c00;">vam12375</span>!</samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### 🍊 Java Backend Developer | Spring Boot Enthusiast
 
 <br/>
 
 <!-- 简介部分 -->
 <p>
-  正在构建现代化的电商后端系统 (如 <b>Muying Mall</b>)<br>
-  热衷于 <b>Java</b> 生态系统与云原生架构
+  学习中<br>
+  L站摸鱼达人
 </p>
 
 <br/>
