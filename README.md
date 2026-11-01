@@ -11,7 +11,7 @@
 <!-- 简介部分 -->
 <p>
   学习中<br>
-  L站摸鱼达人 https://linux.do/u/faction/summary
+  L站摸鱼达人
 </p>
 
 <br/>
