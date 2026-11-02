@@ -1,26 +1,23 @@
 <div align="center">
 
-<!-- 顶部头像与欢迎语 -->
-<img src="https://github.com/vam12375.png" width="100" style="border-radius: 50%;">
+<!-- 顶部头像 -->
+<img src="https://github.com/vam12375.png" width="110" alt="avatar" style="border-radius: 50%; border: 3px solid #ff8c00;">
 
-# <samp>Hi there, I'm <span style="color:#ff8c00;">vam12375</span>!</samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# <samp>Hi there, I'm <span style="color:#ff8c00;">vam12375</span>!</samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave">
 
-
-<br/>
-
-<!-- 简介部分 -->
 <p>
-  学习中<br>
-  L站摸鱼达人
+  <b>学习中</b> · <b>L站摸鱼达人</b>
 </p>
+
+<!-- 社交链接 -->
 <a href="https://linux.do/u/faction/summary" target="_blank" rel="noopener noreferrer">
   <img src="https://linux.do/favicon.ico" alt="Linux.do" width="20" height="20" />
   <strong>Linux.do</strong>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- 技术栈徽章 (Flat-Square 风格，更简洁) -->
+<!-- 技术栈 -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -30,25 +27,22 @@
 
 <br/><br/>
 
-<!-- 动态统计卡片 (定制了橙色配色以匹配头像) -->
-<!-- 注意：bg_color=00000000 表示透明背景 -->
-
+<!-- GitHub 统计 -->
 <img src="https://github-readme-stats.vercel.app/api?username=vam12375&show_icons=true&title_color=ff8c00&icon_color=f4d03f&text_color=333&bg_color=00000000&hide_border=true" alt="vam12375's stats" />
 
 <br/>
 
-<!-- 语言使用比例 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vam12375&layout=compact&title_color=ff8c00&text_color=333&bg_color=00000000&hide_border=true&hide=html,css" alt="Top Langs" />
 
 <br/><br/>
 
-<!-- 贪吃蛇动画 (自动生成吃掉你的贡献格子的动画，非常流行) -->
-<!-- 注意：这个需要配置 GitHub Actions 才能生效，如果不想配置可以先删除下面这行 -->
+<!-- 可选：GitHub 贡献动画 -->
 <img src="https://github.com/vam12375/vam12375/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 <br/>
 
 ### 📫 Reach me
+
 <a href="mailto:405394597@qq.com">
   <img src="https://img.shields.io/badge/Email-Me-ff8c00?style=flat-square&logo=gmail&logoColor=white" />
 </a>
