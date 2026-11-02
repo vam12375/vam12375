@@ -13,6 +13,10 @@
   学习中<br>
   L站摸鱼达人
 </p>
+<a href="https://linux.do/u/faction/summary" target="_blank" rel="noopener noreferrer">
+  <img src="https://linux.do/favicon.ico" alt="Linux.do" width="16" height="16" />
+  Linux.do
+</a>
 
 <br/>
 
