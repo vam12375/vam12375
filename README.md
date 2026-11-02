@@ -11,8 +11,8 @@
 
 <!-- 社交链接 -->
 <a href="https://linux.do/u/faction/summary" target="_blank" rel="noopener noreferrer">
-  <img src="https://linux.do/favicon.ico" alt="Linux.do" width="20" height="20" />
-  <strong>Linux.do</strong>
+  <img src="https://linux.do/favicon.ico" width="18" height="18" alt="Linux.do">
+  <b>Linux.do</b>
 </a>
 
 <br/><br/>
